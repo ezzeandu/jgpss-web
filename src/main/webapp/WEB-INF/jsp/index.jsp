@@ -131,7 +131,7 @@
 			<div class="col-lg-8 mx-auto">
 				<h2>Download JGPSS</h2>
 				<p>You can download JGPSS for free!</p>
-				<a href="https://files.fm/f/tqbn228p" target="_blank"
+				<a href="https://files.fm/f/x7zzvv88" target="_blank"
 					class="btn btn-default btn-lg">Visit Download Page</a>
 			</div>
 		</div>
