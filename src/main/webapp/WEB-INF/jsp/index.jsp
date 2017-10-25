@@ -78,9 +78,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 mx-auto">
-					<h2>
+					<h3>
 						About <em>JGPSS</em>
-					</h2>
+					</h3>
 					<p>
 						<b>JGPSS</b> Framework is discrete time simulation general-purpose
 						open source tool written in <b>Java</b> that allows you to model
@@ -107,13 +107,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 mx-auto">
-					<h2>Why JGPSS?</h2>
+					<h3>Why JGPSS?</h3>
 					<p>Rather than focusing in complex code, JGPSS allows anyone
 						with no-programming skills to build a simulation world in a LEGO
 						fashion way, where the modeler reassembles the Blocks structures
 						to imitate a particular system.</p>
 
-					<h2>What kind of things I can do with JGPSS?</h2>
+					<h3>What kind of things I can do with JGPSS?</h3>
 					<p>JGPSS is so flexible that the user gives the semantics
 						needed. Blocks could be facility-oriented (such as machines in a
 						job shop) or transation-oriented (such as parts of
@@ -129,7 +129,7 @@
 		class="download-section content-section text-center download">
 		<div class="container download-container">
 			<div class="col-lg-8 mx-auto">
-				<h2>Download JGPSS</h2>
+				<h3>Download JGPSS</h3>
 				<p>You can download JGPSS for free!</p>
 				<a href="https://files.fm/f/x7zzvv88" target="_blank"
 					class="btn btn-default btn-lg">Visit Download Page</a>
@@ -142,7 +142,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 mx-auto">
-					<h2>Contribute with the JGPSS project!</h2>
+					<h3>Contribute with the JGPSS project!</h3>
 					<p>If you are interested in being part of the JGPSS community,
 						feel free to join us and make JGPSS better every day.</p>
 					<ul class="list-inline banner-social-buttons">
